@@ -32,7 +32,7 @@ This project was built for the **Descope MCP Hackathon 2025 (Theme 1: Agents Tha
 
 ## 📂 Project Structure
 ```
-oscc-hackathon/
+oscc-mcp/
 │── README.md
 │── docker-compose.yml
 │── .env.sample
@@ -117,8 +117,7 @@ pytest tests/
 ---
 
 ## 🎥 Demo
-- **Video:** [YouTube Link](https://youtu.be/NKL9icBUGwM)
-- **Live Demo:** [Vercel Deployment](https://oscc-demo.vercel.app)
+- **Demo & Walkthrough (YouTube):** [https://youtu.be/NKL9icBUGwM](https://youtu.be/NKL9icBUGwM)
 
 ---
 
