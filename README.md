@@ -1,7 +1,7 @@
-# Open Source Contribution Concierge (OSCC)
+# Open Source Contribution Companion (OSCC)
 
 ## 📌 Project Overview
-Open-Source Contribution Concierge (OSCC) is an **AI-powered agent** that helps new developers start contributing to open-source by:
+Open-Source Contribution Companion (OSCC) is an **AI-powered agent** that helps new developers start contributing to open-source by:
 - Finding **beginner-friendly GitHub issues**.
 - Summarizing them in **simple language**.
 - Creating **Notion tasks** or posting **Slack notifications**.
