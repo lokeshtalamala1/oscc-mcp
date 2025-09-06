@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+pydantic
+loguru
+slack_sdk
+notion-client
+openai
+pytest
